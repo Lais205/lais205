@@ -10,9 +10,9 @@
 
 #### 💬 Encontre-me em outro lugar
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lais-carvalho/)](https://https://www.linkedin.com/in/lais-carvalho-772113268/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lais-carvalho/)](https://www.linkedin.com/in/lais-carvalho-772113268/) 
 [![Gmail Badge](https://img.shields.io/badge/-kleid75@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kleid75@gmail.com)](mailto:kleid75@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/lais.dev/)](https://https://www.instagram.com/lais.dev/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lais.dev/)](https://www.instagram.com/lais.dev/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7A2BBAce1&height=120&section=header"/>
 
