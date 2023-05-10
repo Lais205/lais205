@@ -27,7 +27,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lais205&show_icons=true&count_private=true&hide_border=true&title_color=301440ce1&icon_color=301440ce1&text_color=FFFFFF&bg_color=301440" alt="Lais Carvalho github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais205&layout=compact&hide_border=true&title_color=FFFFFFce1&text_color=FFFFFF&bg_color=301440" />
   
- [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,figma,js,react)](https://skills.thijs.gg)
+ [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,figma,js,react,typescript)](https://skills.thijs.gg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7A2BBAce1&height=120&section=footer"/>
