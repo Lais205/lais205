@@ -28,7 +28,7 @@
   
  
   
- [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,react,typescript,figma,mysql,java)](https://skills.thijs.gg)
+ [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,react,typescript,figma,mysql,java,aws)](https://skills.thijs.gg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9AD2B&height=120&section=footer"/>
