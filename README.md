@@ -3,7 +3,7 @@
 #### Sobre mim
 - 💻 Desenvolvimento web.
 - 🌱  Atualmente estudo desenvolvimento Front-end e Back-end.
-- 📗 Aluna do instituto Proa 💙
+- 📗 Ex-aluna do instituto Proa 💙
 - 😄 Pronomes: ELA/DELA.
 - 🥰 Apaixonada por  programação.
 
